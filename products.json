@@ -1,1 +1,6 @@
-[{"id": 1762784055628, "name": "1-Mukhi Rudraksha", "image": "./images/1_mukhi_rudraksha.webp", "price": 1234, "description": "Natural 1-Mukhi Rudraksha - Divine quality", "quantity": 1}]
+{
+  "id": 1,
+  "name": "1 Mukhi Rudraksha",
+  "price": 499,
+  "image": "https://i.ibb.co/abcd123/rudraksha.jpg"
+}
